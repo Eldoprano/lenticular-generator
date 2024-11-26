@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lenticular-generator/static/css/main.e6c13ad2.css",
+    "main.js": "/lenticular-generator/static/js/main.42211f69.js",
+    "static/js/453.99310a78.chunk.js": "/lenticular-generator/static/js/453.99310a78.chunk.js",
+    "index.html": "/lenticular-generator/index.html",
+    "main.e6c13ad2.css.map": "/lenticular-generator/static/css/main.e6c13ad2.css.map",
+    "main.42211f69.js.map": "/lenticular-generator/static/js/main.42211f69.js.map",
+    "453.99310a78.chunk.js.map": "/lenticular-generator/static/js/453.99310a78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.42211f69.js"
+  ]
+}
